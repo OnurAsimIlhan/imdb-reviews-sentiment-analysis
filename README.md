@@ -2,6 +2,13 @@
 ## Description
 This project uses a pre-trained Recurrent Neural Network (RNN) model to classify IMDB movie reviews as positive or negative. The model is integrated into a Streamlit web application for easy user interaction.
 
+## Streamlit Deployment
+
+The application is deployed using Streamlit. You can access it without running the code locally by visiting the following link:
+
+[Streamlit App](https://imdb-reviews-sentiment-analysis-amvnee5h4m7jkcqesvgdvn.streamlit.app/)
+
+## Setup (if you want to run locally)
 
 1. **Clone the repository**:
     ```sh
